@@ -1,4 +1,4 @@
-# 🧑‍💻 Employee Management System (Java Swing GUI)
+# Employee Management System (Java Swing GUI)
 
 > 🖥️ Frontend-focused Java project demonstrating GUI design, event handling, and object-oriented programming concepts using Swing components.
 
@@ -32,13 +32,11 @@ The program applies **OOP principles** such as encapsulation and modular design 
 Compile the Java files:
 
 bash
-Copy code
 javac *.java
 Run the main tester class:
 
 bash
-Copy code
-java Sem2_Assignment2_Tester
+java Sem2_Assignment2_Tester```
 💡 Features
 ✅ Intuitive graphical interface built using Swing
 ✅ Add, update, and display employee information
@@ -57,8 +55,6 @@ Encapsulation & Modular Programming
 
 Input validation and exception handling
 
-🔗 Related Project
-💾 Employee Management (JDBC + Oracle Database)
 
-👨‍💻 Author
+Author
 Mustafa Udegadhwala
