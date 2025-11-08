@@ -42,6 +42,7 @@ java Sem2_Assignment2_Tester
 ```
 
 💡 Features
+
 ✅ Intuitive graphical interface built using Swing
 
 ✅ Add, update, and display employee information
