@@ -28,15 +28,18 @@ The program applies **OOP principles** such as encapsulation and modular design 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mus-1/Employee-Management-GUI.git
-   cd Employee-Management-GUI```
+   cd Employee-Management-GUI
+   ```
 Compile the Java files:
 ```
 bash
-javac *.java```
+javac *.java
+```
 Run the main tester class:
 ```
 bash
-java Sem2_Assignment2_Tester```
+java Sem2_Assignment2_Tester
+```
 💡 Features
 ✅ Intuitive graphical interface built using Swing
 ✅ Add, update, and display employee information
