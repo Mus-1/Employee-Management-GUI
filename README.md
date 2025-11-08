@@ -40,11 +40,16 @@ Run the main tester class:
 bash
 java Sem2_Assignment2_Tester
 ```
+
 💡 Features
 ✅ Intuitive graphical interface built using Swing
+
 ✅ Add, update, and display employee information
+
 ✅ Interactive pop-ups using JOptionPane
+
 ✅ Demonstrates OOP design and event-driven programming
+
 ✅ Clean layout using JPanel and Layout Managers
 
 🧠 Concepts Demonstrated
