@@ -65,5 +65,4 @@ Encapsulation & Modular Programming
 Input validation and exception handling
 
 
-Author
-Mustafa Udegadhwala
+
