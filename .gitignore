@@ -25,3 +25,4 @@ bin/
 # Ignore system files
 .DS_Store
 Thumbs.db
+assignment_data/
