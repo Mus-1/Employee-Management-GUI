@@ -1,0 +1,27 @@
+# ============================================================
+# Git Ignore File - Employee Management System (Java Swing GUI)
+# Author: Mustafa Udegadhwala
+# ============================================================
+
+# Ignore compiled class files
+*.class
+
+# Ignore data files created at runtime
+*.dat
+
+# Ignore temporary and backup files
+*.tmp
+*.bak
+
+# Ignore IDE-specific files (Eclipse, IntelliJ, etc.)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+out/
+bin/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
